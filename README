@@ -1,0 +1,6 @@
+University of Watelroo CS486 Winter 2012
+Assignment 1
+Sudoku Solver
+
+Input: 9x9 Integers with 0 as unfilled number
+Ouput: 9x9 Integers with all number filled (1-9)
